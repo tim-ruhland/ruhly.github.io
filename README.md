@@ -7,9 +7,12 @@ ruhly.github.io
 ## Credits:
 
 Design: Identity by HTML5 UP, with modifications by Timothy Ruhland
+
 html5up.net | @ajlkn
+
 see: http://www.truhland.net/README.txt
 
 Background Image: Anisur Rahman
+
 https://unsplash.com/@arjabedbd
 
